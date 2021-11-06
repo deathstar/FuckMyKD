@@ -8,11 +8,11 @@ Are you tired of losing all your search and destroy games because your K/D is to
 4) open your FPS game, for example, call of duty
 5) start a multiplayer game
 6) once you get in press the space bar 
-7) the bot should automatically select a loadout and do so every time the game ends, leave it running as long as you like
-8) to stop the bot from doing any more random stuff, press Esc
+7) let the bot do its thing, it will not get kicked for inactivity
+8) to stop the bot from playing and regain control, press Esc
 
 ## Advanced Features
-- bot can run overnight
+- bot automatically selects loadout each game
+- bot can run forever and not get kicked
 - bot will always switch weapons and fire randomly
 - bot can actually get kills 
-- bot automatically selects loadout each game
